@@ -1,3 +1,4 @@
+#traingle pattern 
 j=1
 while(j<=5):
 	print ("* ")*j
